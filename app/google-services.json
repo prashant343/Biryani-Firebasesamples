@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "867992165536",
+    "firebase_url": "https://biryani-ab593.firebaseio.com",
+    "project_id": "biryani-ab593",
+    "storage_bucket": "biryani-ab593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867992165536:android:0f1bb33cc93cfef6",
+        "android_client_info": {
+          "package_name": "com.pk.biryani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867992165536-8njc1cq13t9rch6s5d46487snvjap2b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCf8Rw72EFF9nxy-fGLSQg6zwgIL4Zn8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
